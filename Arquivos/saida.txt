@@ -1,0 +1,18 @@
+O aluno que mais gerou instantes: Pablo - Matricula: 555989
+Planeta que mais explodiu: Javascript
+Planeta que fica com mais vida: C
+Quadrante que fica com mais bugs: Quadrante 1
+Quadranre que fica com mais devs: Quadrante 1
+Número total de instantes analisados pela turma: 189368
+
+Velocidade media total Python: 3
+Velocidade media total JavaScript: 0
+Velocidade media total PHP: 0
+Velocidade media total Ruby On Rails: 0
+Velocidade media total C#: 0
+Velocidade media total C++: 0
+Velocidade media total C: 6
+Numero total de Devs: 6410107
+Numero total de Bugs: 7279367
+Numero total de Horas: 4489296633
+Numero total de Anos: 554723410
